@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/home/user/.android/build-cache/a99d8ff5a7b9a8ff345664564062c02c30aee08d/output/assets"/></dataSet><dataSet config="main"><source path="/home/user/Documents/CardView/Application/src/main/assets"/><source path="/home/user/Documents/CardView/Application/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/user/Documents/CardView/Application/src/debug/assets"/></dataSet></merger>

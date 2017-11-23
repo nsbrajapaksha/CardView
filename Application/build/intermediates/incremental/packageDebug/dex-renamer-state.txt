@@ -1,0 +1,4 @@
+#Thu Nov 23 14:29:15 IST 2017
+base.0=/home/user/Documents/CardView/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/user/Documents/CardView/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
